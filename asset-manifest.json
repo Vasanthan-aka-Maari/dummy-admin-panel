@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dummy-admin-panel/static/css/main.7be6febf.chunk.css",
+    "main.css": "/dummy-admin-panel/static/css/main.2951fccf.chunk.css",
     "main.js": "/dummy-admin-panel/static/js/main.c8a08c22.chunk.js",
     "main.js.map": "/dummy-admin-panel/static/js/main.c8a08c22.chunk.js.map",
     "runtime-main.js": "/dummy-admin-panel/static/js/runtime-main.7f1f82c5.js",
@@ -10,13 +10,13 @@
     "static/js/3.12122b1a.chunk.js": "/dummy-admin-panel/static/js/3.12122b1a.chunk.js",
     "static/js/3.12122b1a.chunk.js.map": "/dummy-admin-panel/static/js/3.12122b1a.chunk.js.map",
     "index.html": "/dummy-admin-panel/index.html",
-    "static/css/main.7be6febf.chunk.css.map": "/dummy-admin-panel/static/css/main.7be6febf.chunk.css.map",
+    "static/css/main.2951fccf.chunk.css.map": "/dummy-admin-panel/static/css/main.2951fccf.chunk.css.map",
     "static/js/2.0464652e.chunk.js.LICENSE.txt": "/dummy-admin-panel/static/js/2.0464652e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7f1f82c5.js",
     "static/js/2.0464652e.chunk.js",
-    "static/css/main.7be6febf.chunk.css",
+    "static/css/main.2951fccf.chunk.css",
     "static/js/main.c8a08c22.chunk.js"
   ]
 }

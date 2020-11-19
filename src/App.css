@@ -1,13 +1,7 @@
 .app {
   background-color: #e8e8e8;
   font-family: "Roboto", sans-serif;
-  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
-}
-.logo {
-  font-size: 2rem;
-
-  font-family: "Big Shoulders Stencil Display", cursive;
-  letter-spacing: 2px;
+  background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
 }
 .app-header {
   display: flex;
@@ -17,6 +11,16 @@
   padding: 0 5rem;
   background: transparent;
   color: #fd3a69;
+}
+.logo {
+  font-size: 2rem;
+  font-family: "Big Shoulders Stencil Display", cursive;
+  letter-spacing: 2px;
+}
+.app-header h3 {
+  color: #222831;
+  letter-spacing: 1px;
+  position: relative;
 }
 .app-products {
   padding: 1rem 3rem;

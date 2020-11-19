@@ -4,7 +4,7 @@
 }
 .product {
   display: flex;
-  background-color: #fcf876;
+  background-color: #fffc98;
   width: 400px;
   padding: 5px 0 5px 5px;
   margin: 5px 5px;
@@ -19,6 +19,7 @@
   display: flex;
   justify-content: space-around;
   flex-direction: column;
+  color: #004364;
 }
 .product-offer {
   color: #333;
